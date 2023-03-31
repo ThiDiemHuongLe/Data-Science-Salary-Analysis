@@ -1,6 +1,6 @@
 As the title and description suggest, this project is an exploratory data analysis about salary of Data Science field.
 
-I started it to find out salary details as a new greduate seeking for first job in this field. 
+I started it to find out salary details as a new graduate seeking for first job in this field. 
 Besides, it is to fullfil my curiosity as a former payroll specialist who prefer to comprehend
 compesation package of different levels.
 
