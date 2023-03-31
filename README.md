@@ -2,7 +2,7 @@ As the title and description suggest, this project is an exploratory data analys
 
 I started it to find out salary details as a new graduate seeking for first job in this field. 
 Besides, it is to fulfill my curiosity as a former payroll specialist who prefer to comprehend
-compesation package of different levels.
+compensation package of different levels.
 
 Hopes that the information can:
 
